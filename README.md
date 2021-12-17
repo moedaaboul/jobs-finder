@@ -114,3 +114,7 @@ Project is: complete.
 Created by -[@AidKool](https://github.com/AidKool) -[@moedaaboul](https://github.com/moedaaboull) -[@Iler22](https://github.com/Iler22)
 
 - Feel free to contact us!
+
+## LICENSE
+This work is licensed under a
+[MIT](https://github.com/moedaaboul/jobs-finder/blob/main/LICENSE).
