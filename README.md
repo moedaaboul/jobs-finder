@@ -16,6 +16,7 @@ Live demo [_here_](https://aidkool.github.io/jobs-finder/).
 - [Demo](#demo)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+- [License](#license)
 
 ## General Information
 
@@ -116,5 +117,5 @@ Created by -[@AidKool](https://github.com/AidKool) -[@moedaaboul](https://github
 - Feel free to contact us!
 
 ## LICENSE
-This work is licensed under a
+This work is licensed under
 [MIT](https://github.com/moedaaboul/jobs-finder/blob/main/LICENSE).
