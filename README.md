@@ -1,7 +1,7 @@
 # Jobs Finder
 
 This project is a job finder web app.
-Live demo [_here_](https://aidkool.github.io/jobs-finder/).
+Live demo [_here_](https://moedaaboul.github.io/jobs-finder/).
 
 ## Table of Contents
 
