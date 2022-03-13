@@ -13,7 +13,6 @@ Live demo [_here_](https://moedaaboul.github.io/jobs-finder/).
 - [Wellbeing average methodology](#wellbeing-average-methodology)
 - [Setup](#setup)
 - [Project Status](#project-status)
-- [Demo](#demo)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 - [License](#license)
@@ -95,10 +94,6 @@ We have calculated the average score as rendered on the map popups as the weight
 ## Project Status
 
 Project is: complete.
-
-## Demo
-
-![Job Finder App](./demo.gif)
 
 ## Acknowledgements
 
