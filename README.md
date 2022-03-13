@@ -113,4 +113,4 @@ Created by -[@AidKool](https://github.com/AidKool) -[@moedaaboul](https://github
 
 ## LICENSE
 This work is licensed under
-[MIT](https://github.com/moedaaboul/jobs-finder/blob/main/LICENSE).
+[MIT](https://github.com/moedaaboul/jobs-finder/blob/master/LICENSE).
